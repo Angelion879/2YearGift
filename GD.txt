@@ -2,25 +2,56 @@ Basic concepts:
 
 1- a level per phrase
 
-It all started with a brick
-And my face
-And the idea that both would colide one day
-For the joke
-That your hand would never reach my head
-and some other things I said that never made sense
-turns out I was wrong
-and the whole you made it to my brain
+It all started with a brick (1)
+And my face (2)
+And the idea that both would colide one day (3)
+For the joke that your hand would never reach my head (4)
+and some other things I said that never made sense (5)
+turns out I was wrong (6)
+and the whole you made it to my brain (7)
 
-and now we are here
-together, after two whole years
-I love you, with all my heart...
-and soul :P
-And I hope that someday
-we share our last names
-and a place
-just for me and you
+and now we are here (8)
+together, after two whole years (9)
+I love you, with all my heart... (10)
+and soul :P (11)
+And I hope that someday (12)
+we share our last names (13)
+and a place (14)
+just for me and you (15)
 
 ... and cats <3
 
 ##LAST PHRASE == NO LEVEL ONLY THE END, IT TAKES THE PLAYER TO THE MAIN MENU##
 Congrats for us, my dear
+
+====================================================
+
+(NOW STARTS THE REAL DEAL GDD)
+
+GDD - LOVER'S BREAKOUT
+(a romantic gift game concept)
+
+[introduction]:
+    This document objective is to present and specify technical and artistic concepts of the game "Lover's BreakOut". 
+    It contains the narrative behind each part, the game mechanics, gameplay aspects and its objective.
+
+[Inspirations]:
+    + BreakOut (ATARI - 1976)
+    + My brain
+    + You (Luisa)
+    + My incredible capacity of being gay
+
+[Summary]:
+    After two(2) whole years, here we are. Still together, somehow alive, and surprisingly in love still. 
+    Well, at least I am ridiculously in love and do believe that you are as well.
+    We've come pretty far, my dear, and I'd like to give you a little of what we both excel in: video games.
+    I hope that even if we aren't able to meet in person for our anniversary,
+    this piece of entertainment may brighten your day and bring a smile to your face.
+
+[Story]:
+    Our story is too long for me to write it down on an editor that doesn’t even know how to break lines.
+    [Insert here a big descriptive text explaining our history and everything we’ve been through.]
+
+[Gameplay]:
+    Each level has been designed to fit with the concept of a phrase.
+    + Level One: is composed of only one brick to represent the brick quoted in the first strophe;
