@@ -1,8 +1,5 @@
-
-from turtle import onclick
 from gameWindow import win
-from paddle import paddle
-from ball import ball
+import gui
 
 while True:
     win.update()
