@@ -1,5 +1,8 @@
+from GUIs import mainGui
 from gameWindow import win
-import gui
+
+win.listen()
 
 while True:
     win.update()
+    
