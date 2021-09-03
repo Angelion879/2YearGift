@@ -46,6 +46,7 @@ def import_functions():
             # Start game option
             win.reset()
             from levels import level01
+            level01.draw_the_intro()
 
         elif left_arrow.ycor() == -30:
             # All Levels option

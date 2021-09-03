@@ -1,10 +1,10 @@
 from turtle import Turtle, hideturtle
 
 class Text(Turtle):
-    def __init__(self, position, message, letter_size):
+    def __init__(self, position, message, letter_size, color="white"):
         super().__init__()
         self.speed(0)
-        self.color('white')
+        self.pencolor(color)
         self.penup()
         self.goto(position)
         self.hideturtle()
