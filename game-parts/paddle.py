@@ -1,5 +1,7 @@
 from turtle import Turtle
 
+paddle = None
+
 class Paddle(Turtle):
     def __init__(self, position):
         super().__init__(shape='square')
@@ -9,5 +11,17 @@ class Paddle(Turtle):
         self.color('white')
         self.goto(position)
 
+def create_paddle():
+    paddle = Paddle((0, -370))
 
-paddle = Paddle((0, -365))
+    def paddle_right():
+        global paddle
+        x = paddle.xcor()
+        x+= 20
+        paddle.setx(x)
+
+    def paddle_left():
+        global paddle
+        x = paddle.xcor()
+        x-=20
+        paddle.setx(x)

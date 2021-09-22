@@ -8,7 +8,3 @@ class Brick(Turtle):
         self.penup()
         self.color('white')
         self.goto(position)
-
-    def break_brick(self, hit):
-        if hit:
-            self.hideturtle()
